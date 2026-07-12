@@ -47,7 +47,7 @@
   --default-icon-color: color-mix(in oklab, var(--color-text-primary), var(--color-bg-primary) 67%);
 }
 
-.status-card, .compose-form__highlightable, .media-gallery, .media-gallery__item, .video-player {
+.status-card, .compose-form__highlightable, .media-gallery, .video-player {
   border-radius: 1em;
 }
 
